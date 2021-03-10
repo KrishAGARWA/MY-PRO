@@ -1,0 +1,20 @@
+
+h1{
+    color:red
+}
+.headers{
+display:flex;
+justify-content:center
+
+}
+
+.footers{
+display:flex;
+justify-content:center
+
+}
+
+
+body{
+    background-color:yellow
+}
